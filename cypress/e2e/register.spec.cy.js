@@ -7,7 +7,7 @@ describe('Register Serverest', () => {
   const Chance = require('chance');
   const chance = new Chance();
 
-it('Register Success', () => {
+it    ('Register Success', () => {
   registerPage.accessRegisterPage()
   registerPage.fieldRegisterPage(userDate.RegisterPage.registerSuccess.name, userDate.RegisterPage.registerSuccess.email, userDate.RegisterPage.registerSuccess.password)
   registerPage.clickButtonRegister()

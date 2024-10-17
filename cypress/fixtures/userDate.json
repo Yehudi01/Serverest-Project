@@ -11,6 +11,18 @@
             "email": "oi@",
             "password": "123"
         }
+    },
+
+    "LoginPage": {
+        "loginSuccess": {
+            "email": "editor@gmail.com ",
+            "password": "editor123"
+        },
+        "loginFail": {
+            "email": "editor@hgdsxhdx.com",
+            "password": "!@#$%¨&*"
+        }
+        
     }
 
 }
