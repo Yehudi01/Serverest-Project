@@ -1,0 +1,16 @@
+{
+    "RegisterPage":{
+        "registerSuccess":{
+            "name": "Mae",
+            "email": "tekiduna@vungelate.nl",
+            "password": "123456"
+        },
+
+        "registerFail":{
+            "name": "oi",
+            "email": "oi@",
+            "password": "123"
+        }
+    }
+
+}
